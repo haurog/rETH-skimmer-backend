@@ -13,6 +13,9 @@ To deploy the backend:
 `cargo shuttle deploy`
 
 
+Check the logs with:
+`cargo shuttle logs`
+
 
 ## Used tools
 
